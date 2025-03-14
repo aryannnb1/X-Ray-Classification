@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+/xray_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (if you don't want to push data to GitHub)
+data/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# MacOS Finder settings
+.DS_Store
