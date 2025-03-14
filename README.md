@@ -6,13 +6,7 @@ X-Ray Classification is a project aimed at developing a machine learning model t
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model](#model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Future Work](#future-work)
-
+  
 ## Introduction
 The goal of this project is to classify X-ray images into different categories using machine learning techniques. This can aid in the diagnosis of various conditions by providing automated analysis of medical images.
 
