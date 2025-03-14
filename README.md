@@ -20,3 +20,7 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/aryannnb1/X-Ray-Classification.git
 cd X-Ray-Classification
 pip install -r requirements.txt
+```
+
+## Future Work
+Develop a webapp using FastAPI for the backend to handle image uploads and predictions and HTML, CSS, and JavaScript to provide a user-friendly interface for uploading X-ray images and displaying results.
